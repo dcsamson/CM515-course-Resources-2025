@@ -22,7 +22,7 @@ Use this reference to learn how to format this README: [Markdown on Github](http
 
 ## Link to my website:
 
-*[My github website link](URL here)*
+*[MyFavs](https://github.com/dcsamson/CM515-course-Resources-2025/tree/main)*
 
 ---
 
